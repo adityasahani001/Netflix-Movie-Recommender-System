@@ -1,4 +1,4 @@
-## 🎥 Netflix Movie Recommendation System
+##  Netflix Movie Recommendation System
 
 A content-based filtering recommendation system that suggests movies based on user preferences, leveraging movie metadata like genres, cast, directors, and more. Built with Python, Pandas, and Scikit-Learn, this system analyzes similarities between movies to deliver personalized suggestions.
 
@@ -9,7 +9,7 @@ A content-based filtering recommendation system that suggests movies based on us
 * **Interactive UI (Optional)** - Integrate with a basic Flask app for easy user interaction.
 * **Scalable Design** - Easily expandable with new data and features.
 
-## 🛠 Technologies Used:
+##  Technologies Used:
 
 * Python
 * Pandas
